@@ -15,6 +15,4 @@ This project is in its early stages, and there's much more to come! We encourage
 
 Thank you for your interest in the SMS Spam Classifier!
 
----
 
-Developed with passion and a vision for a spam-free inbox!
